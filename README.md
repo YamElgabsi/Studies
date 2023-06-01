@@ -1,3 +1,2 @@
 # Studies_CPP
-projects from the Tel-Hai College's course 
-Evrey branch is diffrent exercise
+In the course I took at Tel-Hai College, where we learned object-oriented programming in language C++, there I completed several projects
